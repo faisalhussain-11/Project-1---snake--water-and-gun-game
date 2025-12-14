@@ -31,7 +31,7 @@ while True:
         #      print(f"You chose {rev_game_values[-1]} \n computer chose {rev_game_values[1]} ")
         #      print("You Lose, Better luck next time!")
         #  else:
-        #     print("something went wrong!")   so here in most cases when we losing we get difference of you and computer as either 1 or -2. sp we can use this logic to make our code shorter
+        #     print("something went wrong!")   so here in most cases when we losing we get difference of you and computer as either 1 or -2. sowe can use this logic to make our code shorter
 
 
 
